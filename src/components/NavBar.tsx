@@ -72,9 +72,9 @@ export default function NavBar() {
             <MenuBookIcon />
           </Button>
         </Tooltip>
-        <Tooltip title='Go to https://github.com/vemonet/jsonld-editor '>
+        <Tooltip title='Go to https://github.com/MaastrichtU-IDS/fair-metadata-wizard '>
           <Button className={classes.menuButton} target="_blank"
-          href="https://github.com/vemonet/jsonld-editor ">
+          href="https://github.com/MaastrichtU-IDS/fair-metadata-wizard ">
             <GitHubIcon />
           </Button>
         </Tooltip>

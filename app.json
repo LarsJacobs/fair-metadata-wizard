@@ -1,8 +1,8 @@
 {
     "expo": {
-      "name": "JSON-LD editor",
+      "name": "FAIR Metadata Wizard",
       "description": "JSON-LD web editor, with autocomplete based on the loaded ontologies concepts and properties, to easily generate and edit FAIR RDF metadata",
-      "slug": "jsonld-editor ",
+      "slug": "fair-metadata-wizard ",
       "privacy": "public",
       "sdkVersion": "35.0.0",
       "platforms": ["web"],

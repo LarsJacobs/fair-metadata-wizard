@@ -45,6 +45,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d web-build"
   },
-  "homepage": "https://vemonet.github.io/jsonld-editor",
+  "homepage": "https://maastrichtu-ids.github.io/fair-metadata-wizard",
   "private": true
 }
