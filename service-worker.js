@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jsonld-editor/precache-manifest.3c5c04a1ca87b6d7158f75000a5c03ca.js"
+  "/fair-metadata-wizard/precache-manifest.4e2f4f9e4a87cf9f3d25dceeb0555cd1.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jsonld-editor/index.html", {
+workbox.routing.registerNavigationRoute("/fair-metadata-wizard/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
